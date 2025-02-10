@@ -44,7 +44,12 @@ let txt = `aaa ${str} bbb`;*/
 b
 c`;
 let a = undefined;
-alert(a);*/
+alert(a);
 
 let a = null;
 alert(a);
+
+let a = true;
+alert(a);
+let a = false;
+alert(a);*/
