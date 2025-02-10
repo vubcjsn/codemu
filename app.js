@@ -36,7 +36,10 @@ alert(str + " " + "World");*/
 
 /*let str = "лебеди";
 alert(str.length);*/
-let str1 = "xxx";
-let str2 = "yyy";
-alert(xxx $ {str} yyy ${str} aaa
-);
+
+/*let str = "xxx";
+let txt = `aaa ${str} bbb`;*/
+
+let str = `a
+b
+c`;
