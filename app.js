@@ -78,4 +78,7 @@ console.log(NaN);
 console.log(900099999983989284984n);
 
 const PI = 3.14;
-trengle PI = 4;*/
+trengle PI = 4;
+
+let a = "5' * "2";
+alert(a);*/
