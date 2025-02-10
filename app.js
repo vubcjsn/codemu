@@ -52,4 +52,6 @@ alert(a);
 let a = true;
 alert(a);
 let a = false;
-alert(a);*/
+alert(a);
+
+alert(`abc` * `def`);*/
