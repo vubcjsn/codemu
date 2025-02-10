@@ -42,6 +42,9 @@ let txt = `aaa ${str} bbb`;*/
 
 /*let str = `a
 b
-c`;*/
+c`;
 let a = undefined;
+alert(a);*/
+
+let a = null;
 alert(a);
