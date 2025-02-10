@@ -40,6 +40,8 @@ alert(str.length);*/
 /*let str = "xxx";
 let txt = `aaa ${str} bbb`;*/
 
-let str = `a
+/*let str = `a
 b
-c`;
+c`;*/
+let a = undefined;
+alert(a);
