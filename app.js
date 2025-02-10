@@ -85,4 +85,8 @@ alert(a);
 let a = Number("10");
 let b = Number("20");
 alert(a + b);
-alert(Number("2") + Number("3"));*/
+alert(Number("2") + Number("3"));
+
+let a = +"2";
+let b = +"3";
+alert(a + b);*/
