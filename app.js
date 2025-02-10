@@ -90,9 +90,14 @@ alert(Number("2") + Number("3"));
 let a = +"2";
 let b = +"3";
 alert(a + b);
+
 let a = parseInt("5px");
 let b = parseInt("6px");
-alert(a + b);*/
+alert(a + b);
 let a = parseFloat("5.5px");
 let b = parseFloat("6.25px");
-alert(a + b);
+alert(a + b);*/
+
+let a = 9;
+let b = 8;
+alert(String(a) + String(b));
