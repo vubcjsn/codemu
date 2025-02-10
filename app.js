@@ -55,3 +55,6 @@ let a = false;
 alert(a);
 
 alert(`abc` * `def`);*/
+
+alert(-10 / 0);
+alert(10 / 0);
