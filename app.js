@@ -54,7 +54,14 @@ alert(a);
 let a = false;
 alert(a);
 
-alert(`abc` * `def`);*/
+alert(`abc` * `def`);
 
 alert(-10 / 0);
 alert(10 / 0);
+
+let a = 3;
+console.log(a);
+let b = 5;
+let c = 4;
+let d = 3;
+console.log(b, c, d);*/
