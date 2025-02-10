@@ -64,7 +64,7 @@ console.log(a);
 let b = 5;
 let c = 4;
 let d = 3;
-console.log(b, c, d);*/
+console.log(b, c, d);
 
 console.log(123);
 console.log("123");
@@ -75,4 +75,7 @@ console.log(-Infinity);
 console.log(null);
 console.log(undefined);
 console.log(NaN);
-console.log(undefined);
+console.log(900099999983989284984n);
+
+const PI = 3.14;
+trengle PI = 4;*/
