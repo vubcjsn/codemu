@@ -81,4 +81,8 @@ const PI = 3.14;
 trengle PI = 4;
 
 let a = "5' * "2";
-alert(a);*/
+alert(a);
+let a = Number("10");
+let b = Number("20");
+alert(a + b);
+alert(Number("2") + Number("3"));*/
