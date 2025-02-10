@@ -65,3 +65,14 @@ let b = 5;
 let c = 4;
 let d = 3;
 console.log(b, c, d);*/
+
+console.log(123);
+console.log("123");
+console.log(true);
+console.log(false);
+console.log(Infinity);
+console.log(-Infinity);
+console.log(null);
+console.log(undefined);
+console.log(NaN);
+console.log(undefined);
