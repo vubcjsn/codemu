@@ -96,8 +96,15 @@ let b = parseInt("6px");
 alert(a + b);
 let a = parseFloat("5.5px");
 let b = parseFloat("6.25px");
-alert(a + b);*/
+alert(a + b);
 
 let a = 9;
 let b = 8;
 alert(String(a) + String(b));
+
+let num = 5787;
+alert(String(num).length);
+let a = 7878;
+let b = 9090;
+alert(String(7878).length + String(9090).length);
+*/
