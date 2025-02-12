@@ -1,4 +1,4 @@
-"use strict";
+"use strict"; /*
 //alert("text!");
 
 //let num = 123;
@@ -210,3 +210,42 @@ alert(2 * (Number(c) + Number(b)));*/
 //document.write(" <i> text <i>");
 //Выведите в окно браузера столбец чисел от 1 до 5.
 //document.write(1, 2, 3, 4, 5);
+//Код должен находить сумму чисел:
+
+/*let num1 = 1;
+let num2 = 2;
+console.log(Number(num1) + Number(num2));*/
+//Код должен находить сумму чисел:
+/*let a = 1;
+let b = 2;
+console.log(a + b);*/
+//Код должен вывести первую цифру числа:
+/*let num = 123;
+let n = "123";
+console.log(n[0]);*/
+//Код должен был вывести в консоль число 1, но выводит 0:
+/*let a = 0;
+console.log(++a);*/
+/*од должен вывести количество цифр в числе:
+let num = 123;
+let n = "123";
+console.log(n.length);*/
+//Код должен найти количество секунд в сутках:
+/*let a = 24 / 60 / 60;
+console.log(a.toFixed(2));*/
+//Код должен вывести количество цифр в числе:
+/*let num = "123";
+console.log(num.length);*/
+//Код должен вывести последнюю цифру числа:
+/*let num = "123";
+console.log(num[num.length - 1]);*/
+//Код должен найти сумму чисел:
+/*let a = "123";
+let b = "456";
+let s = Number(a) + Number(b);
+console.log(s);*/
+//Код должен найти сумму чисел:
+/*let aaa = Number(1);
+let bbb = Number(2);
+let ccc = Number(3);
+console.log(aaa + bbb + ccc);*/
