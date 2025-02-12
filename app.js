@@ -131,3 +131,14 @@ alert(str[str.length - 2]);
 /*Дана строка. Выведите на экран ее предпредпоследний символ.
 let str = "dom";
 alert(str[str.length - 3]);*/
+
+/*Дана строка '12345'. Найдите сумму цифр этой строки.
+let test = "12345";
+alert(
+  Number(test[0]) +
+    Number(test[1]) +
+    Number(test[2]) +
+    Number(test[3]) +
+    Number(test[4])
+);
+*/
