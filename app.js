@@ -142,3 +142,22 @@ alert(
     Number(test[4])
 );
 */
+//Дано число 12345. Найдите сумму цифр этого числа.
+/*let test = String(12345);
+alert(
+  Number(test[0]) +
+    Number(test[1]) +
+    Number(test[2]) +
+    Number(test[3]) +
+    Number(test[4])
+);*/
+//Дано число 12345. Переставьте цифры этого числа в обратном порядке.
+let b = 12345;
+let m = String(b);
+console.log(
+  m[m.length - 1] +
+    m[m.length - 2] +
+    m[m.length - 3] +
+    m[m.length - 4] +
+    m[m.length - 5]
+);
