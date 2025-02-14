@@ -373,3 +373,10 @@ console.log(obj);*/
 };
 console.log(obj);
 */
+//Создайте объект user с ключами 'name', 'surname', 'patronymic' и какими-то произвольными значениями. Выведите на экран фамилию, имя и отчество через пробел.
+let user = {
+  name: "alex",
+  surname: "dmitriev",
+  patronymic: "chekalov",
+};
+console.log(user);
