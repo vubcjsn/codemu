@@ -329,3 +329,10 @@ console.log(arr[key]);*/
 let key1 = 1;
 let key2 = 2;
 console.log(arr[key1] + arr[key2]);*/
+//ан массив:
+//Удалите из него два элемента. Проверьте, какое станет значение свойства length после этого.
+/*let arr = ["a", "b", "c", "d", "e"];
+delete arr[1];
+delete arr[3];
+console.log(arr);
+console.log(arr.length);*/
