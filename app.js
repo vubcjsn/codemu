@@ -374,9 +374,20 @@ console.log(obj);*/
 console.log(obj);
 */
 //Создайте объект user с ключами 'name', 'surname', 'patronymic' и какими-то произвольными значениями. Выведите на экран фамилию, имя и отчество через пробел.
-let user = {
+/*let user = {
   name: "alex",
   surname: "dmitriev",
   patronymic: "chekalov",
 };
 console.log(user);
+*/
+//Создайте объект date с ключами 'year', 'month' и 'day' и значениями, соответствующими текущему дню. Выведите созданную дату на экран в формате год-месяц-день.
+/*let date = {
+  year: "2025",
+  month: "02",
+  day: "14",
+};
+console.log(date.year);
+console.log(date.month);
+console.log(date.day);
+*/
