@@ -391,3 +391,28 @@ console.log(date.year);
 console.log(date.month);
 console.log(date.day);
 */
+//Дан объект:Для каких ключей данного объекта кавычки обязательны, а для каких нет?
+/*let obj = {
+  "1a": 1,
+  b2: 2,
+  "с-с": 3,
+  "d 4": 4,
+  e: 5,
+};
+console.log(obj);*/
+//Исправьте ошибки, допущенные в следующем коде:
+
+/*let obj = {
+  "1a": 1,
+  b2: 2,
+  "с-с": 3,
+  "d 4": 4,
+  e5: 5,
+};
+
+console.log(obj["1a"]);
+console.log(obj.b2);
+console.log(obj["c-c"]);
+console.log(obj["d 4"]);
+console.log(obj.e5);
+*/
