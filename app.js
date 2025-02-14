@@ -248,4 +248,9 @@ console.log(s);*/
 /*let aaa = Number(1);
 let bbb = Number(2);
 let ccc = Number(3);
-console.log(aaa + bbb + ccc);*/
+console.log(aaa + bbb + ccc);
+
+let arr = [45, 14, 8];
+alert(arr);
+console.log(arr);
+*/
