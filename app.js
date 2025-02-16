@@ -463,3 +463,8 @@ console.log('x' in obj);*/
 /*console.log(typeof { x: 1, y: 2, z: 3 });
 Не запуская код, определите, что выведется в консоль:
 console.log(typeof {});*/
+
+//Не запуская код, определите, что выведется в консоль:
+/*
+let arr = [1, 2, 3];
+console.log(typeof arr);*/
