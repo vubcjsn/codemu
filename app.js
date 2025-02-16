@@ -505,3 +505,31 @@ console.log(obj["x"]);*/
 /*let obj = { x: 1, y: 2, z: 3 };
 let key = "x";
 console.log(obj[key]);*/
+//Проверьте, что переменная test больше 10.
+/*let test = 4;
+if (test > 10) {
+  console.log("+++");
+} else {
+  console.log("---");
+}*/
+//Проверьте, что переменная test меньше 10.
+/*let test = 4;
+if (test < 10) {
+  console.log("+++");
+} else {
+  console.log("---");
+}*/
+//Проверьте, что переменная test больше или равна 10.
+/*let test = 4;
+if (test >= 10) {
+  console.log("+++");
+} else {
+  console.log("---");
+}*/
+//Проверьте, что переменная test меньше или равна 10.
+/*let test = 4;
+if (test <= 10) {
+  console.log("+++");
+} else {
+  console.log("---");
+}*/
