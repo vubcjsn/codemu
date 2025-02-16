@@ -468,3 +468,6 @@ console.log(typeof {});*/
 /*
 let arr = [1, 2, 3];
 console.log(typeof arr);*/
+
+//Не запуская код, определите, что выведется на экран в консоль:
+//console.log(Array.isArray([1, 2, 3]));
