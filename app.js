@@ -484,3 +484,16 @@ console.log(arr2);*/
 const arr = ["a", "b", "c"];
 arr[1] = "!";
 console.log(arr);*/
+
+//Перепишите следующий код через описанный подход:
+/*let arr = [1, 2, 3, 4, 5];
+let res = arr[1] + arr[2];
+console.log(res);
+
+const a = 1;
+const b = 2;
+const c = 3;
+const v = 4;
+const g = 5;
+const d = b + c;
+console.log(d);*/
