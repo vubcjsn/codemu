@@ -478,3 +478,9 @@ let arr2 = arr1;
 
 arr1[0] = "a";
 console.log(arr2);*/
+
+//Что выведется в результате выполнения следующего кода:
+/*
+const arr = ["a", "b", "c"];
+arr[1] = "!";
+console.log(arr);*/
