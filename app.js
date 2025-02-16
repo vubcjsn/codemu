@@ -533,3 +533,10 @@ if (test <= 10) {
 } else {
   console.log("---");
 }*/
+//Проверьте, что переменная test равна 10.
+/*let test = 4;
+if (test == 10) {
+  console.log("+++");
+} else {
+  console.log("---");
+}*/
