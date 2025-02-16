@@ -497,3 +497,11 @@ const v = 4;
 const g = 5;
 const d = b + c;
 console.log(d);*/
+//Код должен вывести элемент объекта:
+/*
+let obj = { x: 1, y: 2, z: 3 };
+console.log(obj["x"]);*/
+//Код должен вывести элемент объекта по ключу из переменной:
+/*let obj = { x: 1, y: 2, z: 3 };
+let key = "x";
+console.log(obj[key]);*/
