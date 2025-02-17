@@ -753,3 +753,22 @@ if (day > 0 && day < 10) {
 }else {
 	console.log('неверное значение переменной num');
 }*/
+//Перепишите следующий код через switch-case:
+/*
+let lang = "en";
+
+switch (lang) {
+  case "ru":
+    console.log("рус");
+    break;
+  case "en":
+    console.log("en");
+    break;
+  case "de":
+    console.log("нем");
+    break;
+  default:
+    console.log("язык не поддерживается");
+    break;
+}
+*/
