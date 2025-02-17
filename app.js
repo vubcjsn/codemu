@@ -657,3 +657,22 @@ if (!test) {
 } else {
   console.log("---");
 }*/
+//Не запуская код, определите, что выведется в консоль:
+/*
+let test = "abc";
+
+if (test) {
+  console.log("+++");
+} else {
+  console.log("---");
+}
+Не запуская код, определите, что выведется в консоль:*/
+/*
+let test = "";
+
+if (test) {
+  console.log("+++");
+} else {
+  console.log("---");
+}
+*/
