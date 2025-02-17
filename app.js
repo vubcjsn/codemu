@@ -620,3 +620,21 @@ if (test === true) {
 } else {
   console.log("---");
 }*/
+//Не запуская код, определите, что выведется в консоль:
+/*
+let test = 1;
+
+if (test != true) {
+  console.log("+++");
+} else {
+  console.log("---");
+}*/
+//Перепишите следующий код с использованием сокращенной формы:
+/*
+let test = true;
+
+if (true) {
+  console.log("+++");
+} else {
+  console.log("---");
+}*/
