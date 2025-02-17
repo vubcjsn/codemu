@@ -604,3 +604,19 @@ if (num == 9 || (num > 10 && num < 20) || (num > 20 && num < 30)) {
 } else {
 	console.log('---');
 }*/
+//Проверьте, что переменная test равна true.
+/*let test = true;
+
+if (test === true) {
+	console.log('+++');
+} else {
+	console.log('---');
+}*/
+//Проверьте, что переменная test равна false.
+/*let test = false;
+
+if (test === true) {
+  console.log("+++");
+} else {
+  console.log("---");
+}*/
