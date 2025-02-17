@@ -730,3 +730,26 @@ if (test > 0) {
   console.log("+++");
 } else console.log("---");
 */
+//В переменной day лежит какое-то число из интервала от 1 до 31. Определите в какую декаду месяца попадает это число (в первую, вторую или третью).
+/*let day = 8;
+
+if (day > 0 && day < 10) {
+  console.log("value1");
+} else if (day > 10 && < 20) {
+  console.log("value2");
+} else if (day > 20 && < 30) {
+  console.log("value3");
+}
+*/
+//Модифицируйте предыдущую задачу так, чтобы, если в переменной day будет не число от 1 до 31, выдавалось сообщение об ошибке.
+/*let day = 8;
+
+if (day > 0 && day < 10) {
+  console.log("value1");
+} else if (day > 10 && < 20) {
+  console.log("value2");
+} else if (day > 20 && < 30) {
+  console.log("value3");
+}else {
+	console.log('неверное значение переменной num');
+}*/
